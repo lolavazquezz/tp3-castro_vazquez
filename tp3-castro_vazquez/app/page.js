@@ -4,7 +4,7 @@ import Titulo from "./components/Titulo"
 export default function Home() {
   return (
     <>
-    <Titulo texto="hola"></Titulo>
+    <Titulo texto="¡Bienvenido!"></Titulo>
     </>
   );
 }
