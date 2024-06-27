@@ -1,0 +1,127 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/Subtitulo/Subtitulo.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/Cita/Cita.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Cita_cita__XmwiX {
+    padding: 1rem;
+    padding-bottom: 0.1rem;
+    background: white;
+  
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .Cita_cita__XmwiX p {
+    font-weight: bold;
+    margin-bottom: .8rem;
+  }
+  
+  .Cita_cita__XmwiX p span {
+    font-weight: normal;
+  
+  }
+  
+  .Cita_cita__XmwiX:first-of-type {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+  
+  .Cita_cita__XmwiX:last-of-type {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+  .Cita_button__ieTya.Cita_eliminar__0RDYh,
+.Cita_button__ieTya.Cita_eliminar__0RDYh:hover {
+  background-color: #c10059;
+  color: white;
+  margin-top: 2rem;
+}
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/FormularioLinea/FormularioLinea.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/components/FormularioCrear/FormularioCrear.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************/
+.FormularioCrear_input__V7lmx  {
+  height: 38px;
+  padding: 6px 10px;
+  background-color: #fff;
+  border: 1px solid #D1D1D1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+  font-size: 0.67em;
+}
+.FormularioCrear_label__UmZaC {
+    color: white;
+    font-size: 0.67em;
+  }
+.FormularioCrear_textarea__MV0vW{
+    font-size: 0.67em;
+  }
+  
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/reserva/Reserva.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.Reserva_lista-citas__2RxW9 .Reserva_media__DlNX4 {
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 3rem;
+  }
+  
+  .Reserva_lista-citas__2RxW9 .Reserva_media__DlNX4:last-of-type {
+    border-bottom: 0;
+  }
+  
+  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 p {
+    margin: 0;
+  }
+  
+  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 button {
+    margin-top: 1rem !important;
+  }
+  
+  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 span {
+    font-weight: bold;
+  }
+  .Reserva_html__Hq7I1 {
+    min-height: 100%;
+  }
+  
+  .Reserva_body__40SAw {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);
+    min-height: 100%;
+    padding-bottom: 5rem;
+  }
+  .Reserva_body__40SAw p{
+    font-size: 0.67em;
+  }
+  
+  .Reserva_h1__jKYQV,
+  .Reserva_h2__7Jb70 {
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+  
+    text-transform: uppercase;
+  
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 1px;
+  }
+  
+  .Reserva_alerta-error__UFl3D {
+    background-color: white;
+    color: red;
+    padding: 1rem;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+  }  

@@ -1,7 +1,5 @@
-export default function Titulo ({params}) {
+export default function Titulo ({texto}) {
     return (
-
-                <p>{params}</p>
-            
+        <p>{texto}</p>            
     )
 }
