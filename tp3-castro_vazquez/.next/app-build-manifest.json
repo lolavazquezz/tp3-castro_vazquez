@@ -1,9 +1,10 @@
 {
   "pages": {
-    "/page": [
+    "/quienes-somos/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/css/app/quienes-somos/page.css",
+      "static/chunks/app/quienes-somos/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
@@ -11,10 +12,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/quienes-somos/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/quienes-somos/page.js"
+      "static/chunks/app/page.js"
     ],
     "/reserva/page": [
       "static/chunks/webpack.js",
