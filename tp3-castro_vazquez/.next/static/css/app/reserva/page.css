@@ -68,28 +68,25 @@
 /*!**************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/reserva/Reserva.module.css ***!
   \**************************************************************************************************************************************************************************************************************************************************************************/
-.Reserva_lista-citas__2RxW9 .Reserva_media__DlNX4 {
+.Reserva_listacitas__Z_17t .Reserva_media__DlNX4 {
     border-bottom: 1px solid #e1e1e1;
     padding-bottom: 3rem;
   }
   
-  .Reserva_lista-citas__2RxW9 .Reserva_media__DlNX4:last-of-type {
+  .Reserva_listacitas__Z_17t .Reserva_media__DlNX4:last-of-type {
     border-bottom: 0;
   }
   
-  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 p {
+  .Reserva_listacitas__Z_17t .Reserva_media-body__Bdwg5 p {
     margin: 0;
   }
   
-  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 button {
+  .Reserva_listacitas__Z_17t .Reserva_media-body__Bdwg5 button {
     margin-top: 1rem !important;
   }
   
-  .Reserva_lista-citas__2RxW9 .Reserva_media-body__Bdwg5 span {
+  .Reserva_listacitas__Z_17t .Reserva_media-body__Bdwg5 span {
     font-weight: bold;
-  }
-  .Reserva_html__Hq7I1 {
-    min-height: 100%;
   }
   
   .Reserva_body__40SAw {

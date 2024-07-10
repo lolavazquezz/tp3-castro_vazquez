@@ -4,9 +4,7 @@ import RootLayout from "./layout.js";
 export default function Home() {
   return (
     <>
-      <body>
         <Titulo texto="Bienvenido!"></Titulo>
-      </body>
     </>
   );
 }

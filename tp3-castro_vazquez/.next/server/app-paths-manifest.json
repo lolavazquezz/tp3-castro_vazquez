@@ -1,5 +1,6 @@
 {
-  "/quienes-somos/page": "app/quienes-somos/page.js",
   "/page": "app/page.js",
-  "/reserva/page": "app/reserva/page.js"
+  "/reserva/page": "app/reserva/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/quienes-somos/page": "app/quienes-somos/page.js"
 }
