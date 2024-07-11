@@ -1,4 +1,5 @@
 import FormularioLinea from "../FormularioLinea";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../FormularioCrear/FormularioCrear.module.css";
 const FormularioCrear = ({ citas, setCitas }) => {
   const crearCita = (e) => {

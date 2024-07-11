@@ -1,27 +1,16 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/reserva/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/reserva/page.css",
       "static/chunks/app/reserva/page.js"
     ],
-    "/quienes-somos/page": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/quienes-somos/page.css",
-      "static/chunks/app/quienes-somos/page.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ]
   }
 }
